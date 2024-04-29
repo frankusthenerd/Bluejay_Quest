@@ -1,0 +1,38 @@
+BASIC CONTROLS
+
+Game:
+
+ENTER - start the game/dismiss messages
+SPACEBAR - hold to fly
+LEFT/RIGHT ARROWS - turn Bluejay to the left or to the right
+UP ARROW - jump
+DOWN ARROW - go down a pipe
+P - pause the game/unpause the game
+D - delete a saved game when on the title screen/kill Bluejay
+Q - quit anytime
+
+Editor:
+
+1 - puts you in screen mode
+2 - puts you in character mode
+3 - puts you in playform mode
+I - move the cursor up
+J - move the cursor to the left
+L - move the cursor to the right
+M - move the cursor down
+K - select/deselect/create object
+D - delete a selected object
+ARROWS - scroll the level
+S - save the level (autosaved when you exit or change level)
+PAGE UP/PAGE DOWN - change level
+Q - quit anytime
+
+Screen Mode:
+
+Z/X - change the pointer value of the screen
+C/V - change the background
+B/N - change the music
+
+Character Mode/Platform Mode:
+
+Z/X - change character/platform

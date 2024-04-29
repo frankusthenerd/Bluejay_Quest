@@ -1,0 +1,7 @@
+AUTHOR
+
+Francois Lamini (lamini.1@osu.edu)
+
+I created Bluejay's Quest from scratch except for the sound effects and music. The game was
+draws a lot from Super Mario World like it is supposed to. The project was started on
+September 8, 2006 and is written in C++.

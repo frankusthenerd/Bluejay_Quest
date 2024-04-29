@@ -1,0 +1,119 @@
+FREQUENTLY ASKED QUESTIONS
+
+1. I never played Super Mario World before, am I in trouble?
+
+    Not really. Although it will take practice for you to learn the game it shouldn't
+    be too hard. The best way to learn the game is to play it.
+  
+2. How do pipes look like?
+
+    They're round, silver, and shiny. You can't miss them.
+  
+3. What does energy do?
+
+    Energy is your life force. You consume it whenever you fly. That's why you should eat
+    a lot of berries and eggs.
+  
+4. How do I Bluejay to eat a berry?
+
+    Position his beak in front of the berry (or egg) and he'll automatically eat it.
+  
+5. How do I start the level editor?
+
+    At the command prompt type "bluejay -edit".
+  
+6. Will stomping on enemies work?
+
+    Yes, but Bluejay's feet are small so you need to jump squarely on your enemies. It might
+    be better to simply hit enemies with your tail.
+  
+7. What is the red number of the right of the screen?
+
+    That's your score. It's there to see how good of a player you are?
+  
+8. Does the game save?
+
+    No. You have to play through it in one sitting.
+  
+9. Is the game free?
+
+    This game is free. It can be redistributed and changed but please do not take credit
+    for writing it or try to sell it. That would be illegal.
+  
+10. How do you get extra lives?
+
+    Eat the yellow cherries.
+  
+11. This game is too hard...
+
+    Then you need to practice more.
+  
+12. I would like to join the project. Is that ok?
+
+    I work alone and best alone.
+
+13. What is the point of collecting eggs? Do I get anything besides strength?
+
+    Yes, but that's for you to find out!
+
+14. I lost my ability to fly! What went wrong?
+
+    Your energy is low. I suggest looking for food right away!
+
+15. I found a bug.
+
+    Send it to me: lamini.1@osu.edu.
+
+16. I came to the end of this level but can't find a way out. What's going on?
+
+    You need to look for the exit.
+
+17. I'm stuck and I can't fly. What should I do?
+
+    Press D to kill yourself. This will keep you from having to restart the game and lose
+    progress. Be more careful next time.
+
+18. I'm having a hard time controlling the bird and it's becoming frustrating.
+
+    You need to get used to the game.
+
+19. I'm having a hard time jumping on enemies. Is something wrong?
+
+    Nope. Due to Bluejay's small feet and the fact that he doesn't have as much control over
+    his jumps as Mario you shouldn't try to stomp moving enemies unless they are large. Use
+    your tail to kill grounded enemies. In the air, however, some enemies stay still or are
+    slow so stomping them can be effective but you have to jump squarely on them. The tail is
+    also effective but harder to use.
+
+20. Does the game compile on Linux?
+
+    It should but you may need to change the makefile for this to work. As for the code it can
+    be compiled on Linux without having to be changed.
+
+21. Does the game support the gamepad?
+
+    No, not yet.
+
+22. How many levels are in this game?
+
+    That's for you to find out.
+
+23. What's the story of the game?
+
+    Bluejay's Quest is an egg hunt. Basically, look for eggs. As you get deeper into the game
+    you will learn the truth.
+
+24. Will you be developing the game any further?
+
+    No. This game was more of an experiment for me and it taught me a lot. However, I have
+    lost interest in developing this game and prefer to move onto other things. Development
+    from here on is up to the hackers!
+
+25. Why am I told not to edit level 23?
+
+    You can edit level 23 but you cannot display a message because that message is used for
+    the game's ending. Instead you should edit another level.
+
+26. Should I use test level?
+
+    Yes. I use them so that I can isolate objects for testing. You should use them too.
